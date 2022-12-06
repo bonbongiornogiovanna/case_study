@@ -1,0 +1,45 @@
+ERROR:root:In: 2022-12-04 18:28:48.971453 raised: [Errno 2] No such file or directory: 'tweeets_json//raw_data_47629619//2022-12-04 18:28:48.335459';
+ERROR:root:In: 2022-12-04 18:28:49.451297 raised: [Errno 2] No such file or directory: 'tweeets_json//raw_data_34282316//2022-12-04 18:28:48.971702';
+ERROR:root:In: 2022-12-04 18:30:12.395744 raised: [Errno 2] No such file or directory: 'tweeets_json//raw_data_47629619//2022-12-04 18:30:11.838859';
+ERROR:root:In: 2022-12-04 18:34:02.651301 raised: [Errno 2] No such file or directory: 'tweeets_json//raw_data_47629619//2022-12-04 18:34:01.998458';
+ERROR:root:In: 2022-12-04 18:34:03.135266 raised: [Errno 2] No such file or directory: 'tweeets_json//raw_data_34282316//2022-12-04 18:34:02.652121';
+ERROR:root:In: 2022-12-04 18:37:10.928859 raised: [Errno 2] No such file or directory: 'tweeets_json//raw_data_47629619//2022-12-04 18:37:10.423193';
+ERROR:root:In: 2022-12-04 18:37:11.412743 raised: [Errno 2] No such file or directory: 'tweeets_json//raw_data_34282316//2022-12-04 18:37:10.929221';
+ERROR:root:In: 2022-12-04 18:39:36.106124 raised: [Errno 2] No such file or directory: 'tweeets_json//raw_data_47629619';
+ERROR:root:In: 2022-12-04 18:39:36.610457 raised: [Errno 2] No such file or directory: 'tweeets_json//raw_data_34282316';
+ERROR:root:In: 2022-12-04 18:40:53.132754 raised: [Errno 2] No such file or directory: 'tweeets_json/raw_data_47629619/2022-12-04 18:40:52.619249';
+ERROR:root:In: 2022-12-04 18:40:53.628042 raised: [Errno 2] No such file or directory: 'tweeets_json/raw_data_34282316/2022-12-04 18:40:53.133161';
+ERROR:root:In: 2022-12-04 18:42:05.686388 raised: [Errno 2] No such file or directory: 'tweeets_json/raw_data_47629619.json';
+ERROR:root:In: 2022-12-04 18:42:06.183116 raised: [Errno 2] No such file or directory: 'tweeets_json/raw_data_34282316.json';
+ERROR:root:In: 2022-12-04 18:42:52.054682 raised: write() argument must be str, not dict;
+ERROR:root:In: 2022-12-04 18:42:52.558310 raised: write() argument must be str, not dict;
+ERROR:root:In: 2022-12-04 19:30:58.571525 raised: [Errno 2] No such file or directory: 'tweets_json/raw_data_47629619/2022-12-04 19:30:58.049070.json';
+ERROR:root:In: 2022-12-04 19:30:59.081044 raised: [Errno 2] No such file or directory: 'tweets_json/raw_data_34282316/2022-12-04 19:30:58.572045.json';
+ERROR:root:In: 2022-12-04 19:31:25.735070 raised: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.;
+ERROR:root:In: 2022-12-04 19:31:26.245419 raised: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.;
+ERROR:root:In: 2022-12-04 19:38:34.001992 raised: Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.;
+ERROR:root:In: 2022-12-04 19:38:34.507888 raised: Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.;
+ERROR:root:In: 2022-12-04 19:44:01.229032 raised: No module named 'openpyxl';
+ERROR:root:In: 2022-12-04 19:44:01.735471 raised: No module named 'openpyxl';
+ERROR:root:In: 2022-12-04 19:50:28.228063 raised: Mixing dicts with non-Series may lead to ambiguous ordering.;
+ERROR:root:In: 2022-12-04 19:50:29.000031 raised: Mixing dicts with non-Series may lead to ambiguous ordering.;
+ERROR:root:In: 2022-12-04 19:55:16.969420 raised: Mixing dicts with non-Series may lead to ambiguous ordering.;
+ERROR:root:In: 2022-12-04 19:55:17.799103 raised: Mixing dicts with non-Series may lead to ambiguous ordering.;
+ERROR:root:In: 2022-12-04 19:57:05.517347 raised: Mixing dicts with non-Series may lead to ambiguous ordering.;
+ERROR:root:In: 2022-12-04 19:57:06.298899 raised: Mixing dicts with non-Series may lead to ambiguous ordering.;
+ERROR:root:In: 2022-12-04 22:00:49.295830 raised: Invalid file path or buffer object type: <class 'list'>;
+ERROR:root:In: 2022-12-04 22:00:50.001639 raised: Invalid file path or buffer object type: <class 'list'>;
+ERROR:root:In: 2022-12-05 22:35:18.015075 raised: 'data';
+ERROR:root:In: 2022-12-05 22:35:18.526761 raised: 'data';
+ERROR:root:In: 2022-12-05 22:59:09.591464 raised: Reindexing only valid with uniquely valued Index objects;
+ERROR:root:In: 2022-12-05 22:59:12.037105 raised: Reindexing only valid with uniquely valued Index objects;
+ERROR:root:In: 2022-12-06 21:45:06.251519 raised: 'next_token';
+ERROR:root:In: 2022-12-06 21:45:23.384075 raised: 'next_token';
