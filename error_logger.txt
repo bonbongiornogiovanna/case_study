@@ -43,3 +43,5 @@ ERROR:root:In: 2022-12-05 22:59:09.591464 raised: Reindexing only valid with uni
 ERROR:root:In: 2022-12-05 22:59:12.037105 raised: Reindexing only valid with uniquely valued Index objects;
 ERROR:root:In: 2022-12-06 21:45:06.251519 raised: 'next_token';
 ERROR:root:In: 2022-12-06 21:45:23.384075 raised: 'next_token';
+ERROR:root:In: 2022-12-07 21:31:25.026097 raised: the JSON object must be str, bytes or bytearray, not list;
+ERROR:root:In: 2022-12-07 21:40:39.420174 raised: ;
