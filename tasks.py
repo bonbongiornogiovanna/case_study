@@ -11,14 +11,14 @@ def main():
     """
     :return:
     """
-    #stepstone_tweets = te.TwitterHook(user_id=user_id_dict.get('@stepstone_de'))
-    #stepstone_tweets.get_tweets()
+    # stepstone_tweets = te.TwitterHook(user_id=user_id_dict.get('@stepstone_de'))
+    # stepstone_tweets.get_tweets()
 
-    #totaljobs_tweets = te.TwitterHook(user_id=user_id_dict.get('@TotaljobsUK'))
-    #totaljobs_tweets.get_tweets()
+    # totaljobs_tweets = te.TwitterHook(user_id=user_id_dict.get('@TotaljobsUK'))
+    # totaljobs_tweets.get_tweets()
 
-    sns.get_tweets('@stepstone_de')
-    sns.get_tweets('@TotaljobsUK')
+    for username in user_id_dict.keys():
+        sns.get_tweets(username)
 
 
 if __name__ == '__main__':
